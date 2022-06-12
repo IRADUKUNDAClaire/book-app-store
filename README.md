@@ -27,8 +27,8 @@ This app has to parts: The first part is where you add a book title, author, pag
 # Tools
 1. VS Code
 
-# Author
-# MANIBAHO Patrick
+# Author claire
+# kundaclaire20@gmail.com
 <Github:patsicko>
 
 <https://github.com/patsicko>
