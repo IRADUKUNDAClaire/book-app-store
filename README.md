@@ -29,14 +29,14 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 # Author
 # MANIBAHO Patrick
-Github: patsicko
+<Github: patsicko>
 
-https://github.com/patsicko
+<https://github.com/patsicko>
 
-LinkedIn: MANIBAHO Patrick
+<LinkedIn: MANIBAHO Patrick>
 
-https://www.linkedin.com/in/manibaho-patrick-a7851a124/
+<https://www.linkedin.com/in/manibaho-patrick-a7851a124/>
 
-Twitter: @patsicko
+<Twitter: @patsicko>
 
-https://twitter.com/patsicko
+<https://twitter.com/patsicko>
