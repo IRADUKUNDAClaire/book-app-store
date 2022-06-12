@@ -29,14 +29,4 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 # Author claire
 # kundaclaire20@gmail.com
-[Github:claire]<ttps://github.com/>
-
-<https://github.com/patsicko>
-
-<LinkedIn: MANIBAHO Patrick>
-
-<https://www.linkedin.com/in/manibaho-patrick-a7851a124/>
-
-<Twitter: @patsicko>
-
-<https://twitter.com/patsicko>
+<https://mail.google.com/mail/u/0/?tab=rm&ogbl>
