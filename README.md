@@ -27,7 +27,8 @@ This app has to parts: The first part is where you add a book title, author, pag
 # Tools
 1. VS Code
 
-# Author claire
+# Author 
+claire
 kundaclaire20@gmail.com
 
 <https://mail.google.com/mail/u/0/?tab=rm&ogbl>
