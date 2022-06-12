@@ -29,7 +29,7 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 # Author claire
 # kundaclaire20@gmail.com
-<Github:patsicko>
+[Github:patsicko]<ttps://github.com/>
 
 <https://github.com/patsicko>
 
