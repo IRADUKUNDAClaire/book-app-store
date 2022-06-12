@@ -29,7 +29,7 @@ This app has to parts: The first part is where you add a book title, author, pag
 
 # Author
 # MANIBAHO Patrick
-<Github: patsicko>
+<Github:patsicko>
 
 <https://github.com/patsicko>
 
